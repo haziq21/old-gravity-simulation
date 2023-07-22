@@ -1,5 +1,5 @@
 # Planetary gravity simulation
-Written in 2020, this basic planetary gravity simulation was an experiment in learning Processing.
+Written in 2020, this basic planetary gravity simulation was an experiment in learning [Processing](https://processing.org/).
 
 ## Usage
 
